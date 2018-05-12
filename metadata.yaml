@@ -1,0 +1,28 @@
+_repo: Love-and-the-Ironmonger_45598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45598-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Randall, F. J. (Frederick John)
+    alias: Randall, Frederick John
+    birthdate: 1872
+    gutenberg_agent_id: '43374'
+    url: http://www.gutenberg.org/2009/agents/43374
+description: ''
+gutenberg_issued: '2014-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'London (England) -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: Love and the Ironmonger
+url: http://www.gutenberg.org/ebooks/45598
